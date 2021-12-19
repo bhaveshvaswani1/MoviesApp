@@ -1,0 +1,15 @@
+.card-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main{
+    background: grey;
+    min-height: 90vh;
+}
+.btn{
+    margin-left: 82%;
+    background: white;
+    box-shadow: 5px 5px 5px black;
+    border: 3px solid black;
+    cursor: pointer;
+}

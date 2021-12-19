@@ -1,0 +1,13 @@
+.search{
+    display: flex;
+    justify-content: center;
+    padding:20px;
+  
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    padding-top: 10px;
+    color: blue;
+}

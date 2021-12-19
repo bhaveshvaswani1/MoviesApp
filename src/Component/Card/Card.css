@@ -1,0 +1,33 @@
+.card{
+    height: 480px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 3.5px solid black;
+    padding: 10px 10px ;
+    text-align: center;
+    margin:20px auto;
+}
+.card:hover{
+    
+    transform: scale(1.05);
+    transition: 0.5s ease all;
+    cursor: pointer;
+}
+.img{
+    height: 300px;
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+.rating{
+    color: rgb(228, 172, 19);
+}
+.cmt-rat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cmt-rat input{
+    margin:2px;
+}
